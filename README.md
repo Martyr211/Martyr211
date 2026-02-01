@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWhja3A4Znl2a3I4OXAycG83NXpzMHNteDV5dHlzZjFqeTB5NmN6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4OAxDXv4RdUeg38JYi/giphy.gif" width="500" alt="Cybersecurity GIF"/>
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Matrix Code Rain"/>
 </div>
 
 <p align="center">
