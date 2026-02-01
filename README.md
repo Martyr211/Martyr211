@@ -7,21 +7,7 @@
 </div>
 
 <div align="center">
-
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="circleClip">
-      <circle cx="60" cy="60" r="60"/>
-    </clipPath>
-  </defs>
-  <image
-    href="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"
-    width="120"
-    height="120"
-    clip-path="url(#circleClip)"
-  />
-</svg>
-
+  <img src="assets/profile.png" width="150" style="border-radius: 50%;"/>
 </div>
 
 <p align="center">
@@ -210,9 +196,7 @@ Security Governance          ██████████░░░░░░ 70
 
 ---
 
-<p align="center">
-  <strong style="font-size: 24px;">📫 Let's Connect!</strong>
-</p>
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush~gupta">
