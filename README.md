@@ -185,7 +185,12 @@ Security Governance          ██████████░░░░░░ 70
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Martyr211&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 Contribution Graph
-[![Martyr211's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Martyr211&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Martyr211)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martyr211&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Martyr211&theme=tokyonight&utcOffset=5.5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Martyr211&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martyr211&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martyr211&theme=tokyonight)
 
 ### 💻 Recent Activity
 <!--START_SECTION:activity-->
