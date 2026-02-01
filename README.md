@@ -7,7 +7,13 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Matrix Code Rain"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img alt="Coding" width="120" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</picture>
+
 </div>
 
 <p align="center">
