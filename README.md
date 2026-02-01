@@ -7,13 +7,13 @@ Scalable security platforms · Detection-as-Code · Automated SOC & Cloud Protec
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ayush~gupta">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ayush881gupta@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=Martyr211&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
@@ -37,7 +37,9 @@ SIEM Architecture            █████████████░░░ 85
 Cloud Security               █████████████░░░ 85%
 DevSecOps                    ████████████░░░░ 80%
 Security Governance          ██████████░░░░░░ 70%
+```
 
+---
 
 ## Technology Stack
 
@@ -96,12 +98,16 @@ Security Governance          ██████████░░░░░░ 70
 ## Live GitHub Metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Martyr211&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martyr211&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martyr211&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Martyr211&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
 ---
