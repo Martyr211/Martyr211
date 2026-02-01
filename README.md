@@ -350,10 +350,10 @@ Solution: Built resilient serverless pipelines with retry logic
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Martyr211&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ### 📊 Contribution Graph
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martyr211&theme=tokyonight)
