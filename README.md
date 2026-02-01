@@ -3,11 +3,11 @@
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=false&vCenter=true&width=700&lines=👋+Hi,+I'm+Ayush+Gupta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=false&vCenter=true&width=700&lines=👋+Hi,+I'm+Ayush" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25jZXI4bG90dnMxYnVhMDB2NXk0cjVtNmp6YmQxcWo4bHhxMWFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWhja3A4Znl2a3I4OXAycG83NXpzMHNteDV5dHlzZjFqeTB5NmN6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4OAxDXv4RdUeg38JYi/giphy.gif" width="500" alt="Cybersecurity GIF"/>
 </div>
 
 <p align="center">
