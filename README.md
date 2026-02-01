@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Gupta;Senior+Security+Engineer+%7C+Blue+Team+%7C+Cloud+Security" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+# 👋 Hi, I'm Ayush Gupta
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Security+Engineer;Detection+Engineering+%7C+Blue+Team;Cloud+Security+%7C+SIEM+%7C+SOAR;Security+Automation+Specialist" alt="Typing SVG" /></a>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Detection%20Engineering-red?style=for-the-badge&logo=security&logoColor=white" />
