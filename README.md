@@ -65,41 +65,53 @@ Security Governance          ██████████░░░░░░ 70
 <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Scanning-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
 
 ### Threat Intelligence & Analysis
+<p align="center">
 <img src="https://img.shields.io/badge/STIX-Threat%20Intel-990000?style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/TAXII-Intel%20Sharing-CC0000?style=for-the-badge&logo=security&logoColor=white" />
 <img src="https://img.shields.io/badge/Logstash-Log%20Processing-005571?style=for-the-badge&logo=logstash&logoColor=white" />
 <img src="https://img.shields.io/badge/UDM-Chronicle%20Parsing-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ### Cloud Security (AWS Focus)
+<p align="center">
 <img src="https://img.shields.io/badge/AWS-Multi--Account%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20Lambda-Serverless%20Security-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20SSM-Agent%20Deployment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/CloudFormation-StackSets-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Kinesis%20Firehose-Log%20Streaming-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Secrets%20Manager-Credential%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
 ### Cloud & Infrastructure
+<p align="center">
 <img src="https://img.shields.io/badge/GCP-Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-Container%20Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ### DevSecOps & CI/CD
+<p align="center">
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-Pipeline%20Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Snyk-DevSecOps-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+</p>
 
 ### Languages & Automation
+<p align="center">
 <img src="https://img.shields.io/badge/Python-Security%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-Lambda%20Functions-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/YAML-Configuration-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
 
 ### Security Data Sources
+<p align="center">
 <img src="https://img.shields.io/badge/Auth0-Identity%20Security-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-Database%20Security-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Exchange%20Online-Email%20Security-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white" />
 <img src="https://img.shields.io/badge/CloudWatch-AWS%20Monitoring-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+</p>
 
 ---
 
