@@ -367,19 +367,6 @@ Solution: Built resilient serverless pipelines with retry logic
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martyr211&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martyr211&theme=tokyonight)
 
-### 💻 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Martyr211&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Martyr211?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
-</p>
-
----
-
 ## 🎯 Security Training & CTF Profiles
 
 <p align="center">
