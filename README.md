@@ -1,7 +1,7 @@
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ayush+Gupta" alt="Typing SVG" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ayush+Gupta)](https://git.io/typing-svg)
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Detection%20Engineering-red?style=for-the-badge&logo=security&logoColor=white" />
@@ -178,12 +178,6 @@ Security Governance          ██████████░░░░░░ 70
 
 <div align="center">
 
-<!-- ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Martyr211&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p> -->
-
-### 📊 Contribution Graph
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martyr211&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Martyr211&theme=tokyonight&utcOffset=5.5)
@@ -191,9 +185,13 @@ Security Governance          ██████████░░░░░░ 70
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Martyr211&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Martyr211&theme=tokyonight)
 
+</div>
+
 ---
 
-## 📫 Let's Connect!
+<p align="center">
+  <strong style="font-size: 24px;">📫 Let's Connect!</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush~gupta">
