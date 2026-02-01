@@ -177,13 +177,6 @@ Security Governance          ██████████░░░░░░ 70
 
 <div align="center">
 
-### 📈 Contribution Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Martyr211&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Martyr211&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Martyr211&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ### 📊 Contribution Graph
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Martyr211&theme=tokyonight)
 
