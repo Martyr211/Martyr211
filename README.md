@@ -1,7 +1,14 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Ayush+Gupta" alt="Typing SVG" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=200&section=header&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D9FF&center=false&vCenter=true&width=700&lines=👋+Hi,+I'm+Ayush+Gupta" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25jZXI4bG90dnMxYnVhMDB2NXk0cjVtNmp6YmQxcWo4bHhxMWFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="500" alt="Coding GIF"/>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Detection%20Engineering-red?style=for-the-badge&logo=security&logoColor=white" />
